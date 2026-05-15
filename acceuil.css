@@ -1,0 +1,34 @@
+body{
+    background-color: #BE9CC7;
+    color: #0f0b1f;
+}
+
+header {
+    padding: 15px;
+    text-align: right;
+    background-color: #8777a6;
+    box-shadow: 4px 4px 5px rgba(33, 26, 68, 0.6);
+}
+
+.github-logo {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: -5px;
+    margin-left: 15px;
+}
+
+.navbar a {
+    margin: 1em;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: #0f0b1f;
+}
+
+video{
+    width: 25%;
+    margin-top: 20px;
+}
